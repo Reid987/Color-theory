@@ -40,7 +40,7 @@
 
 .redorange{
     height: 50px;
-    background-color:	#df0000;
+    background-color:	#ff3300;
 }
 
 .redpurple{
@@ -56,4 +56,104 @@
 .bluegreen{
     height: 50px;
     background-color:#00b69f;
+}
+
+.jungleteal{
+    height: 50px;
+    background-color:#007F5F;
+}
+
+.seagreen{
+    height: 50px;
+    background-color:#2B9348;
+}
+
+.brightfern{
+    height: 50px;
+    background-color:#55A630;
+}
+
+.limemoss{
+    height: 50px;
+    background-color:#80B918;
+}
+
+.greenish{
+    height: 50px;
+    background-color:#AACC00;
+}
+
+.lemonlime{
+    height: 50px;
+    background-color:#BFD200;
+}
+
+.lighterlime{
+    height: 50px;
+    background-color:#D4D700;
+}
+
+.lighterlemon{
+    height: 50px;
+    background-color:#DDDF00;
+}
+
+.yellow2{
+    height: 50px;
+    background-color:#EEEF20;
+}
+
+.brightyellow{
+    height: 50px;
+    background-color:#FFFF3F;
+}
+
+.one{
+    height: 50px;
+    background-color:#001219;
+}
+
+.two{
+    height: 50px;
+    background-color:#005F73;
+}
+
+.three{
+    height: 50px;
+    background-color:#0A9396;
+}
+
+.four{
+    height: 50px;
+    background-color:#94D2BD;
+}
+
+.five{
+    height: 50px;
+    background-color:#E9D8A6;
+}
+
+.six{
+    height: 50px;
+    background-color:#EE9B00;
+}
+
+.seven{
+    height: 50px;
+    background-color:#CA6702;
+}
+
+.eight{
+    height: 50px;
+    background-color:#BB3E03;
+}
+
+.nine{
+    height: 50px;
+    background-color:#AE2012;
+}
+
+.ten{
+    height: 50px;
+    background-color:#9B2226;
 }
